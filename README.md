@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/logos/logo_funep.png" alt="Logotipo FUNEP" width="190" />
+<p align="center">
+  <img src="assets/logos/logo_funep.png" alt="Logotipo FUNEP" width="320">
+</p>
 
 # 🎓 FUNEP — Trilha de Ciência de Dados
 
