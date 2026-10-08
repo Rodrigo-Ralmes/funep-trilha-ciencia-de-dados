@@ -1,6 +1,7 @@
 <div align="center">
 
 <p align="center">
+<<<<<<< HEAD
   <img src="assets/logos/logo_funep.png" alt="Logotipo FUNEP" width="320">
 </p>
 
